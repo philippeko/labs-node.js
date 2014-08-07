@@ -1,0 +1,4 @@
+# Basic examples after installation of node.js on Windows
+
+console.log('Bienvenue dans Node.js !');
+console.log("__dirname: " + __dirname);
